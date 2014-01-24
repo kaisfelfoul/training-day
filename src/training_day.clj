@@ -1,6 +1,6 @@
 (ns training-day)
 
-(def answer ":(")
+(def answer "answer")
 
 (def hai "O HAI!")
 
@@ -8,4 +8,5 @@
   (* x x ))
 
 (defn average [a b]
-  ":(")
+(/ (+ a b) 2 )  
+  )
